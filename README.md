@@ -1,2 +1,13 @@
 # Apple-Retail-Sales-Analysis
-Advanced SQL queries on Apple retail sales data (1M+ rows), covering products, stores, transactions, and warranty claims. Demonstrates querying techniques from basic to complex to extract insights from large datasets.
+Advanced SQL Analysis of Apple Retail Sales Data This project demonstrates advanced SQL querying techniques on a dataset of over 1 million rows from Apple retail sales. It showcases a wide range of analytical skills, including optimizing query performance, solving real-world business problems, and extracting actionable insights from large datasets. Table of Contents
+
+Project Overview
+Database Schema
+Skills Highlighted
+Key Business Questions Solved
+Performance Optimization
+
+Project Overview
+This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. By tackling a variety of questions, from basic to complex, you'll demonstrate your ability to write sophisticated SQL queries that extract valuable insights from large datasets.
+
+The project is ideal for data analysts looking to enhance their SQL skills by working with a large-scale dataset and solving real-world business questions.
