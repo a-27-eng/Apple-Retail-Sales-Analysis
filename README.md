@@ -13,27 +13,6 @@ The project is ideal for data analysts looking to enhance their SQL skills by wo
 
 ![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
-
-Here’s the shortened and improved version of the "What’s Included" and "Why Choose This Project" sections, along with the link:
-
----
-
-### What’s Included:
-- **100 SQL Practice Problems**: Extensive coverage of major SQL topics for mastering concepts with real-world data.
-- **20 Advanced SQL Queries**: Step-by-step solutions for complex queries, enhancing your skills in performance tuning and optimization.
-- **5 Detailed Tables**: Comprehensive datasets with over 1 million rows, including sales, stores, product categories, products, and warranties.
-- **Query Performance Tuning**: Learn to optimize queries for real-world data handling.
-- **Portfolio-Ready Project**: Showcase your SQL expertise through large-scale data analysis.
-
-### Why Choose This Project?
-- **Hands-on Learning**: Practical experience with complex datasets and advanced business problem-solving.
-- **Comprehensive Coverage**: Each table provides new opportunities to explore SQL concepts.
-- **Exceptional Value**: For just **$9**, access 100 SQL problems, 20 advanced query solutions, and a real-world project.
-- **Limited Offer**: Special price available for the **first 100 students**!
-
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
-
 ## Database Schema
 
 The project uses five main tables:
@@ -72,7 +51,7 @@ The project uses five main tables:
 
 The project is split into three tiers of questions to test SQL skills of increasing complexity:
 
-### Easy to Medium (10 Questions)
+##Business Requirements
 
 1. Find the number of stores in each country.
 2. Calculate the total number of units sold by each store.
@@ -84,26 +63,16 @@ The project is split into three tiers of questions to test SQL skills of increas
 8. Find the average price of products in each category.
 9. How many warranty claims were filed in 2020?
 10. For each store, identify the best-selling day based on highest quantity sold.
-
-### Medium to Hard (5 Questions)
-
 11. Identify the least selling product in each country for each year based on total units sold.
 12. Calculate how many warranty claims were filed within 180 days of a product sale.
 13. Determine how many warranty claims were filed for products launched in the last two years.
 14. List the months in the last three years where sales exceeded 5,000 units in the USA.
 15. Identify the product category with the most warranty claims filed in the last two years.
-
-### Complex (5 Questions)
-
 16. Determine the percentage chance of receiving warranty claims after each purchase for each country.
 17. Analyze the year-by-year growth ratio for each store.
 18. Calculate the correlation between product price and warranty claims for products sold in the last five years, segmented by price range.
 19. Identify the store with the highest percentage of "Paid Repaired" claims relative to total claims filed.
 20. Write a query to calculate the monthly running total of sales for each store over the past four years and compare trends during this period.
-
-### Bonus Question
-
-- Analyze product sales trends over time, segmented into key periods: from launch to 6 months, 6-12 months, 12-18 months, and beyond 18 months.
 
 ## Project Focus
 
@@ -124,6 +93,6 @@ This project primarily focuses on developing and showcasing the following SQL sk
 
 ## Conclusion
 
-By completing this project, you will develop advanced SQL querying skills, improve your ability to handle large datasets, and gain practical experience in solving complex data analysis problems that are crucial for business decision-making. This project is an excellent addition to your portfolio and will demonstrate your expertise in SQL to potential employers.
+By completing this project, I have developed advanced SQL querying skills, improved my ability to handle large datasets, and gain practical experience in solving complex data analysis problems that are crucial for business decision-making. T
 
 ---
